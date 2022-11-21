@@ -5,7 +5,7 @@ I'm cubixle, just a guy who turned his hobby into his career.
 Who could complain with that? 
 
 ### My story
-- Was a doorman
+- Was a doorman/night club security/festival security.
 - Found a life partner
 - Had a couple of kids
 - Made my hobby, which I started at a very young age, my career. 
