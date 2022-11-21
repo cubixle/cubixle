@@ -1,3 +1,5 @@
+![Winter](https://l3r.me/winter-cut.jpg "Winter")
+
 # Hey 👋
 
 I'm cubixle, just a guy who turned his hobby into his career. 
@@ -10,6 +12,10 @@ Who could complain with that?
 - Had a couple of kids
 - Made my hobby, which I started at a very young age, my career. 
 - Now running a team of amazing engineers making advertising privacy focused.
+
+### Socials
+- [Mastodon](https://hachyderm.io/@cubixle)
+- [Blog](https://l3r.me)
 
 <!--
 **cubixle/cubixle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
